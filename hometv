@@ -167,25 +167,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 //========================================================================
 
 
-#EXTINF:85 group-title="VISION" tvg-id="vision/tvnmovies" tvg-logo="" provider="VISION" provider-logo="" provider-type="iptv",[VISION] TvN Movies
-http://103.113.116.150:1234/stream/vision/tvnmovies/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
-
-#EXTINF:86 group-title="VISION" tvg-id="vision/visionprime" tvg-logo="" provider="VISION" provider-logo="" provider-type="iptv",[VISION] Vision Prime
-http://103.113.116.150:1234/stream/vision/visionprime/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
-
-#EXTINF:87 group-title="VISION" tvg-id="vision/zeebioskop" tvg-logo="" provider="VISION" provider-logo="" provider-type="iptv",[VISION] Zee Bioskop
-http://103.113.116.150:1234/stream/vision/zeebioskop/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
-
-#EXTINF:88 group-title="VISION" tvg-id="vision/zoomoo" tvg-logo="" provider="VISION" provider-logo="" provider-type="iptv",[VISION] Zoo Moo
-http://103.113.116.150:1234/stream/vision/zoomoo/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
-
-
-
-
-
-
-
-
 
 
 
