@@ -3906,7 +3906,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/billiardtv.png" group-title="🇮🇩 | SPORTS ID",BILLIARD TV Auto reso
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
-
+#EXTINF:-1 group-title="🇮🇩 | SPORTS ID" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858d6351f0018dc0100d513246/400351b236f544c2b2beeb95691c8ed0.jpg",PSJ TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt4.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
 
 
 
